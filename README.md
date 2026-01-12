@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Germ-Cyber/Germ-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Jeremy! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional and Enthusiast</a></h1>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Cybersecurity projects</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JeremyLeVoy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JeremyLeVoy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/jeremylevoy04
+[linkedin]: www.linkedin.com/in/jeremy-le-voy
+
+
