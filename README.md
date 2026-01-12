@@ -11,10 +11,9 @@
 
 
 [<img align="left" alt="JeremyLeVoy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JeremyLeVoy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/jeremylevoy04
+
 [linkedin]: www.linkedin.com/in/jeremy-le-voy
 
 
